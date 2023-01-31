@@ -1,6 +1,6 @@
 # epic-js-web-hover-fractal
 
-Modified from https://sonix.ai/articles/how-to-make-voices-sound-better-in-your-audio-for-free
+Modified from https://sonix.ai/
 
 Play with here: https://djbritt.github.io/epic-js-web-hover-fractal/code/
 
